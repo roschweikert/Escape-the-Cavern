@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Strength
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Strength\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=strength
+comment1.target=Strength(int)
+comment2.params=amountBoosted
+comment2.target=void\ strengthBoost(int)
+comment3.params=
+comment3.target=int\ getStrength()
+numComments=4

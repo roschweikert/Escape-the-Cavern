@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Warrior
+comment0.text=\r\n\ The\ warrior\ will\ be\ the\ basic\ character\ with\ average\ health,\ strength,\ and\r\n\ speed\r\n\r\n\ @Robert\r\n\ @5/15/21\r\n
+comment1.params=name
+comment1.target=Warrior(java.lang.String)
+numComments=2

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameSetup
+comment0.text=\r\n\ This\ will\ be\ the\ main\ body\ of\ code\ for\ the\ game\r\n\r\n\ @Robert\ Schweikert\r\n\ @5/15/21\r\n
+comment1.params=
+comment1.target=GameSetup()
+comment2.params=
+comment2.target=Health\ getHealthClass()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=Strength\ getStrengthClass()
+comment5.params=
+comment5.target=int\ getStrength()
+comment6.params=
+comment6.target=boolean\ isAlive()
+comment7.params=
+comment7.target=java.lang.String\ healthInfo()
+comment8.params=
+comment8.target=java.lang.String\ getName()
+comment9.params=
+comment9.target=java.lang.String\ characterInfo()
+numComments=10

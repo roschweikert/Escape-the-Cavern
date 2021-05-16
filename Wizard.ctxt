@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Wizard
+comment0.text=\r\n\ The\ wizard\ will\ be\ a\ magical\ character\ with\ high\ strength,\ \r\n\ but\ low\ health\ and\ speed\r\n\r\n\ @Robert\r\n\ @5/15/21\r\n
+comment1.params=name
+comment1.target=Wizard(java.lang.String)
+numComments=2

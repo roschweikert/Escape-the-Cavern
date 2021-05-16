@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ This\ will\ be\ the\ character\ creation\r\n\r\n\ @Robert\r\n\ @5/15/21\r\n
+comment1.params=health\ strength\ speed\ name\ type
+comment1.target=Character(int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=
+comment3.target=int\ getStrength()
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

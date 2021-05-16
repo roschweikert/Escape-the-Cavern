@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Thief
+comment0.text=\r\n\ The\ thief\ has\ low\ health,\ average\ attack,\ and\ high\ speed\r\n\r\n\ @Robert\r\n\ @5/15/21\r\n
+comment1.params=name
+comment1.target=Thief(java.lang.String)
+numComments=2
